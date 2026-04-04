@@ -2,4 +2,5 @@
 *.pdf
 *.h5
 *.npy
+*.pth
 

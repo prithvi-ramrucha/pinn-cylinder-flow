@@ -3,3 +3,9 @@ Physics-Informed Neural Network (PINN) to simulate 2D incompressible Navier-Stok
 
 Dataset: https://modelflows.github.io/modelflowsapp/databases/#cylinder-2d
 gt
+
+TODO 
+
+- Correct residual equations for the physics loss.
+- Use collocation points only for the physics loss.
+- Incorporate boundary conditions.
